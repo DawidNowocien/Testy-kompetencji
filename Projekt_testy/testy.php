@@ -11,7 +11,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2" />
 	<meta name="Description" content="Tu wpisz opis zawartości strony" />
 	<meta name="Keywords" content="Tu wpisz wyrazy kluczowe rozdzielone przecinkami" />
-	<title>Tu wpisz tytuł strony</title>
+	<title>Tu wpisz tytuł strony nowy 1</title>
 </head>
 <body>
 
